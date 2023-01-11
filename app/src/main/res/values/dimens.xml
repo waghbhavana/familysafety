@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_180">180dp</dimen>
+    <dimen name="card_title_textsize">24sp</dimen>
+    <dimen name="card_subtitle_textsize">18sp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="elevation_16">16dp</dimen>
+    <dimen name="dimen_96">96dp</dimen>
+    <dimen name="elevation_15">15dp</dimen>
+</resources>
